@@ -1,0 +1,1 @@
+gcc -O3 -o time_dgemm time_dgemm.c -lopenblas -lpthread
